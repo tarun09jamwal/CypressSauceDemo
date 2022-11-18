@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Nov 18 18:17:01 IST 2022","Fri Nov 18 18:17:03 IST 2022","1955","","SauceDemo Test Cases","","","","Sorting product",""
+"passed","Fri Nov 18 18:16:27 IST 2022","Fri Nov 18 18:16:31 IST 2022","3194","","SauceDemo Test Cases","","","","Add multiple items to cart",""
+"passed","Fri Nov 18 18:16:40 IST 2022","Fri Nov 18 18:16:42 IST 2022","1616","","SauceDemo Test Cases","","","","Login with valid credentials",""
+"passed","Fri Nov 18 18:17:12 IST 2022","Fri Nov 18 18:17:17 IST 2022","5032","","SauceDemo Test Cases","","","","Buy product",""
+"passed","Fri Nov 18 18:16:51 IST 2022","Fri Nov 18 18:16:53 IST 2022","2076","","SauceDemo Test Cases","","","","Logout user",""
